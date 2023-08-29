@@ -1,5 +1,5 @@
 ---
-title: Deeto's Journey for Improvement - Front-End Bottlenecks
+title: Deeto's Journey for Improvement - Front-End Bottlenecks (Part 1)
 author: Givi
 pubDatetime: 2023-08-29T22:17:19Z
 postSlug: deeto-journey-for-improvement-front-end-bottlenecks
