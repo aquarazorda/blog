@@ -1,5 +1,5 @@
 ---
-title: Deeto's Journey for Improvement - Front-End Bottlenecks (Performance & Back-end Integration)
+title: Deeto's Journey - Road to Improvement (Performance & Back-end Integration)
 author: Givi
 pubDatetime: 2023-08-29T23:17:19Z
 postSlug: deeto-journey-for-improvement-front-end-performance
@@ -16,6 +16,9 @@ tags:
   - full-stack
 description: Delving into historical context of web development, present challenges, and future solutions, it notably explores the SolidStart framework as potential solution, ultimately setting the stage for incremental problem-solving strategies for optimizing Deeto's performance and functionality. Additionally, a demo of Deeto utilizing SolidStart and DrizzleORM showcases a promising future direction for the platform.
 ---
+
+- [Deeto's Journey - Road to Improvement (Styling and Design)](https://aquarazorda.vercel.app/posts/deeto-journey-for-improvement-front-end-bottlenecks)
+- [Deeto's Journey - Road to Improvement (Final Thoughts)](https://aquarazorda.vercel.app/posts/deeto-journey-for-improvement-final-thoughts)
 
 After investing months of effort into the Deeto platform, I've identified several drawbacks at both the development and application levels. These observations stem from my extensive personal experience and represent my individual viewpoint. It's important to note that these issues are not unique to our project; however, I aim to provide you with an alternative perspective from the development side.
 

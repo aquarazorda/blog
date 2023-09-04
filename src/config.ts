@@ -1,13 +1,13 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
+  website: "http://aquarazorda.vercel.app/",
   author: "Givi Gelashvili",
   desc: "Givi's Personal Blog",
   title: "Givi's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 6,
 };
 
 export const LOCALE = ["en-EN"]; // set to [] to use the environment default

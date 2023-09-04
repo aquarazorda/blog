@@ -1,5 +1,5 @@
 ---
-title: Deeto's Journey for Improvement - Front-End Bottlenecks (Styling and Design)
+title: Deeto's Journey - Road to Improvement (Styling and Design)
 author: Givi
 pubDatetime: 2023-08-29T22:17:19Z
 postSlug: deeto-journey-for-improvement-front-end-bottlenecks
@@ -11,6 +11,9 @@ tags:
   - front-end
 description: Addressing challenges within front-end development for the Deeto platform, the post highlights concerns surrounding the performance implications of styled-components, the intricacies of dynamic component creation, and the intricacies of achieving responsive design. The proposition to embrace TailwindCSS is presented, emphasizing its benefits including established best practices, modular reusability, and seamless integration with design tools like Figma.
 ---
+
+- [Deeto's Journey - Road to Improvement (Performance & Back-end Integration)](https://aquarazorda.vercel.app/posts/deeto-journey-for-improvement-front-end-performance)
+- [Deeto's Journey - Road to Improvement (Final Thoughts)](https://aquarazorda.vercel.app/posts/deeto-journey-for-improvement-final-thoughts)
 
 After investing months of effort into the Deeto platform, I've identified several drawbacks at both the development and application levels. These observations stem from my extensive personal experience and represent my individual viewpoint. It's important to note that these issues are not unique to our project; however, I aim to provide you with an alternative perspective from the development side.
 
