@@ -11,7 +11,7 @@ tags:
   - python
   - css
   - design-system
-description: This is the example description of the example post.
+description: I share my story of how I optimized a slow Python script for CSS optimization by learning Elixir in just one night. Frustrated with the script's performance, I embraced Elixir's functional programming, concurrency, and easy-to-learn syntax. By rewriting the script with parallel processing, I reduced the execution time to a mere 10 seconds with caching. Elixir transformed my approach to solving real-world problems and made me fall in love with programming all over again.
 ---
 
 Typically, when seeking assistance or feedback from fellow programmers, it's advisable to begin by presenting the core problem rather than listing the attempted solutions. Unfortunately, this practice is not always followed. My journey began much the same way, with a deluge of ideas and solutions that ultimately unveiled a substantial CSS size issue.
