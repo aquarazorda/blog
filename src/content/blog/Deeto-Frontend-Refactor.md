@@ -1,11 +1,13 @@
 ---
-title: Refactoring Plan - Moving to Tailwind CSS, React Aria, and ShadCN UI
+title: Deeto's Journey - Moving to Tailwind CSS, React Aria, and ShadCN UI (Refactoring Plan)
 author: Givi
 pubDatetime: 2024-03-21T05:17:19Z
 postSlug: deeto-frontend-refactor
-featured: true
+featured: false
 draft: false
 tags:
+  - deeeto
+  - improvements
   - frontend
   - refactoring
   - shadcn
