@@ -1,7 +1,7 @@
 ---
 title: How I Learned Elixir Overnight
 author: Givi
-pubDatetime: 2023-09-04T21:00
+pubDatetime: 2023-09-04T21:00:23Z
 postSlug: how-I-learned-Elixir-overnight
 featured: false
 draft: false
